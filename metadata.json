@@ -1,0 +1,6 @@
+{
+  "name": "C Programming Functions Lecture Deck",
+  "description": "An interactive, beautifully designed 16:9 presentation deck about Chapter 6: Functions in C Programming. Features syntax-highlighted code, visual diagrams, and mock terminal run simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
